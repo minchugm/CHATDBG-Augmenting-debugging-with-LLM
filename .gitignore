@@ -1,14 +1,27 @@
+# Secrets
 config.json
+.env
 
+# Python
+venv/
 __pycache__/
 *.pyc
-
-node_modules/
-
+*.pyo
+*.egg-info/
 build/
 dist/
-*.egg-info/
 
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Java
 target/
+*.class
 
-.env
+# OS
+.DS_Store
+Thumbs.db
