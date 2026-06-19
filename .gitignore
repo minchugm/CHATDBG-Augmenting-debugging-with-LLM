@@ -1,6 +1,5 @@
 # Secrets
-config.json
-.env
+ai_debug_console/config.json
 
 # Python
 venv/
@@ -9,19 +8,13 @@ __pycache__/
 *.pyo
 *.egg-info/
 build/
-dist/
-
-# Node
-node_modules/
-
-# IDE
-.vscode/
-.idea/
 
 # Java
 target/
 *.class
 
-# OS
-.DS_Store
-Thumbs.db
+# Node
+node_modules/
+
+# Archives
+*.zip
