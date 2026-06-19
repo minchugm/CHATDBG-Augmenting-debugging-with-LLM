@@ -1,11 +1,7 @@
-# Secrets
-ai_debug_console/config.json
-
 # Python
 venv/
 __pycache__/
 *.pyc
-*.pyo
 *.egg-info/
 build/
 
@@ -18,3 +14,8 @@ node_modules/
 
 # Archives
 *.zip
+
+# Secrets
+config.json
+ai_debug_console/config.json
+.env
