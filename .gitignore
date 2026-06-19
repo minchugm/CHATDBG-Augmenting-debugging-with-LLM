@@ -1,0 +1,14 @@
+config.json
+
+__pycache__/
+*.pyc
+
+node_modules/
+
+build/
+dist/
+*.egg-info/
+
+target/
+
+.env
